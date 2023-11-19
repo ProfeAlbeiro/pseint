@@ -1,6 +1,7 @@
 Algoritmo algoritmo0_1
 	
 	// Objetivo del Algoritmo: Analizar el Objetivo / Problema como un Sistema [Entradas, Proceso y Salidas]
+	Escribir "";
 	Escribir "Imprimir en Pantalla";	
 	Escribir "";
 	
@@ -16,12 +17,13 @@ Algoritmo algoritmo0_1
 	//          se usan las estructuras de control: Secuencial, condicional, repetición.
 	
 	// Salida de Datos. Resultado(s).
-	Escribir "Nombre:		Albeiro";
-	Escribir "Apellido:	Albeiro";
-	Escribir "Edad:		Albeiro";
-	Escribir "Estatura:	Albeiro";
-	Escribir "Grp sang:	Albeiro";
-	Escribir "Tip sang:	Albeiro";
-	Escribir "¿Activo?:	Albeiro";
+	Escribir "Nombre:      Albeiro";
+	Escribir "Apellido:    Ramos";
+	Escribir "Edad:        40";
+	Escribir "Estatura:    1.72";
+	Escribir "Grp sang:    O";
+	Escribir "Tip sang:    +";
+	Escribir "¿Activo?:    True";
+	Escribir "";
 	
 FinAlgoritmo
