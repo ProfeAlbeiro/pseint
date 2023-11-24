@@ -1,10 +1,9 @@
 Algoritmo algoritmo0_1
 	
-	// Objetivo del Algoritmo: Analizar el Objetivo / Problema como un Sistema [Entradas, Proceso y Salidas]
+	// Descripción del Objetivo o Problema a resolver, organizado como Sistema [Entradas, Proceso y Salidas]
 	Escribir "";
 	Escribir "Imprimir en Pantalla";	
 	Escribir "";
-	
 	// Declarar variables, constantes y/o arreglos.
 	
 	// Dimensionar arreglos.
