@@ -1,12 +1,12 @@
-Algoritmo algoritmo0_1
+Algoritmo algoritmo01
 	
 	// Descripción del Objetivo o Problema a resolver, organizado como Sistema [Entradas, Proceso y Salidas]
 	
-	// Declarar variables, constantes y/o arreglos.
+	// Declarar constantes, variables y/o arreglos.
 	
 	// Dimensionar arreglos.
 	
-	// Iniciar variables, constantes y/o arreglos
+	// Iniciar constantes, variables y/o arreglos
 	
 	// Entrada de Datos: Pueden ser solicitados o no
 	

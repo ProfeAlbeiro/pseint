@@ -1,14 +1,17 @@
-Algoritmo algoritmo0_1
+Algoritmo escribir01
 	
 	// Descripción del Objetivo o Problema a resolver, organizado como Sistema [Entradas, Proceso y Salidas]
 	Escribir "";
-	Escribir "Imprimir en Pantalla";	
+	Escribir "-------------------------------------------------------";
+	Escribir "Salida de Datos";	
+	Escribir "-------------------------------------------------------";
 	Escribir "";
-	// Declarar variables, constantes y/o arreglos.
+	
+	// Declarar constantes, variables y/o arreglos.
 	
 	// Dimensionar arreglos.
 	
-	// Iniciar variables, constantes y/o arreglos
+	// Iniciar constantes, variables y/o arreglos
 	
 	// Entrada de Datos: Pueden ser solicitados o no
 	
@@ -16,13 +19,17 @@ Algoritmo algoritmo0_1
 	//          se usan las estructuras de control: Secuencial, condicional, repetición.
 	
 	// Salida de Datos. Resultado(s).
+	Escribir "CALCULADORA";
+	Escribir "";
 	Escribir "    Código          : 1";
 	Escribir "    Nombre          : Albeiro";
 	Escribir "    Operación       : Suma";
 	Escribir "    Primer Número   : 5";
 	Escribir "    Segundo Número  : 9.3";
 	Escribir "    Resultado       : 14.3";
-	Escribir "    Volver          : Verdadero";
+	Escribir "    Volver          : VERDADERO";
+	Escribir "";
+	Escribir "-------------------------------------------------------";
 	Escribir "";
 	
 FinAlgoritmo
