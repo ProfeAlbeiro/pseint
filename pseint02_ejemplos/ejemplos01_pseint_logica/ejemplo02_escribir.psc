@@ -16,13 +16,13 @@ Algoritmo algoritmo0_1
 	//          se usan las estructuras de control: Secuencial, condicional, repetición.
 	
 	// Salida de Datos. Resultado(s).
-	Escribir "Nombre:      Albeiro";
-	Escribir "Apellido:    Ramos";
-	Escribir "Edad:        40";
-	Escribir "Estatura:    1.72";
-	Escribir "Grp sang:    O";
-	Escribir "Tip sang:    +";
-	Escribir "¿Activo?:    True";
+	Escribir "    Nombre:      Albeiro";
+	Escribir "    Apellido:    Ramos";
+	Escribir "    Edad:        40";
+	Escribir "    Estatura:    1.72";
+	Escribir "    Grp sang:    O";
+	Escribir "    Tip sang:    +";
+	Escribir "    ¿Activo?:    True";
 	Escribir "";
 	
 FinAlgoritmo
