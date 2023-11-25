@@ -29,7 +29,7 @@ Algoritmo const_var_tipos
 	resultado <- 14.3;
 	volver <- Verdadero;
 	
-	// Entrada de Datos: Pueden ser solicitados o no
+		// Entrada de Datos: Pueden ser solicitados o no
 	
 	// Proceso: Determinar los requerimientos y validaciones. Generalmente,	
 	//          se usan las estructuras de control: Secuencial, condicional, repetición.
