@@ -1,4 +1,4 @@
-Algoritmo escribir01
+Algoritmo salida_datos	
 	
 	// Descripción del Objetivo o Problema a resolver, organizado como Sistema [Entradas, Proceso y Salidas]
 	Escribir "";
@@ -18,7 +18,7 @@ Algoritmo escribir01
 	// Proceso: Determinar los requerimientos y validaciones. Generalmente,	
 	//          se usan las estructuras de control: Secuencial, condicional, repetición.
 	
-	// Salida de Datos. Resultado(s).
+	// Salida de Datos: Resultado(s). Pueden ser parte del proceso.
 	Escribir "CALCULADORA";
 	Escribir "";
 	Escribir "    Código          : 1";

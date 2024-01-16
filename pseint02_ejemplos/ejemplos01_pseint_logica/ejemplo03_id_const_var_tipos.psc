@@ -1,10 +1,10 @@
-Algoritmo const_var_tipos
+Algoritmo id_const_var_tipos
 	
 	// Descripción del Objetivo o Problema a resolver, organizado como Sistema [Entradas, Proceso y Salidas]
 	Escribir "";
-	Escribir "-------------------------------------------------------";
-	Escribir "Constantes, variables y tipos de datos";
-	Escribir "-------------------------------------------------------";
+	Escribir "----------------------------------------------------------------";
+	Escribir "Identificadores, constantes, variables y tipos de datos";
+	Escribir "----------------------------------------------------------------";
 	Escribir "";
 	
 	// Declarar constantes, variables y/o arreglos.
@@ -34,7 +34,7 @@ Algoritmo const_var_tipos
 	// Proceso: Determinar los requerimientos y validaciones. Generalmente,	
 	//          se usan las estructuras de control: Secuencial, condicional, repetición.
 	
-	// Salida de Datos. Resultado(s).
+	// Salida de Datos: Resultado(s). Pueden ser parte del proceso.
 	Escribir APP;
 	Escribir "";
 	Escribir "    Código          : ", codigo;
