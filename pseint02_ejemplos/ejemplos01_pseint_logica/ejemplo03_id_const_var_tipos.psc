@@ -45,7 +45,7 @@ Algoritmo id_const_var_tipos
 	Escribir "    Resultado       : ", resultado;
 	Escribir "    Volver          : ", volver;
 	Escribir "";
-	Escribir "-------------------------------------------------------";
+	Escribir "----------------------------------------------------------------";
 	Escribir "";
 	
 FinAlgoritmo

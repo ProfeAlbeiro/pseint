@@ -1,9 +1,9 @@
-Algoritmo salida_datos	
+Algoritmo salida_datos_concatbasic
 	
 	// Descripción del Objetivo o Problema a resolver, organizado como Sistema [Entradas, Proceso y Salidas]
 	Escribir "";
 	Escribir "-------------------------------------------------------";
-	Escribir "Salida de Datos";	
+	Escribir "Salida de datos";	
 	Escribir "-------------------------------------------------------";
 	Escribir "";
 	
@@ -21,13 +21,13 @@ Algoritmo salida_datos
 	// Salida de Datos: Resultado(s). Pueden ser parte del proceso.
 	Escribir "CALCULADORA";
 	Escribir "";
-	Escribir "    Código          : 1";
-	Escribir "    Nombre          : Albeiro";
-	Escribir "    Operación       : Suma";
-	Escribir "    Primer Número   : 5";
-	Escribir "    Segundo Número  : 9.3";
-	Escribir "    Resultado       : 14.3";
-	Escribir "    Volver          : VERDADERO";
+	Escribir "    Código          ", ": 1";
+	Escribir "    Nombre          ", ": Albeiro";
+	Escribir "    Operación       ", ": Suma";
+	Escribir "    Primer Número   ", ": 5";
+	Escribir "    Segundo Número  ", ": 9.3";
+	Escribir "    Resultado       ", ": 14.3";
+	Escribir "    Volver          ", ": VERDADERO";
 	Escribir "";
 	Escribir "-------------------------------------------------------";
 	Escribir "";
