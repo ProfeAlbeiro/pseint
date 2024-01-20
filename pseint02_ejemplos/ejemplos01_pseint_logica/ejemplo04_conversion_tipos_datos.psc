@@ -1,18 +1,14 @@
-Algoritmo id_const_var_tipos
+Algoritmo conversion_tipos_datos
 	
 	// Descripción del Objetivo o Problema a resolver, organizado como Sistema [Entradas, Proceso y Salidas]
 	Escribir "";
 	Escribir "----------------------------------------------------------------";
-	Escribir "Identificadores, constantes, variables y tipos de datos";
+	Escribir "Conversión de tipos de datos";
 	Escribir "----------------------------------------------------------------";
 	Escribir "";
 	
-	// Declarar constantes, variables y/o arreglos.
-	
-	// - Constantes (En mayúscula sostenida, aunque en PSeInt no aplica)
-	Definir APP Como Cadena;
-	
-	// - Variables
+	// Declarar constantes, variables y/o arreglos.	
+	Definir APP Como Cadena;	
 	Definir codigo Como Caracter;
 	Definir nombre Como Cadena;
 	Definir operacion Como Cadena;
@@ -39,12 +35,6 @@ Algoritmo id_const_var_tipos
 	//          se usan las estructuras de control: Secuencial, condicional, repetición.
 	
 	// Salida de Datos: Resultado(s). Pueden ser parte del proceso.
-	
-	// Imprimir cómo se escriben las variables
-	
-	
-	
-	// PROYECTO DE EJEMPLO: CALCULADORA
 	Escribir APP;
 	Escribir "";
 	Escribir "    Código          : ", codigo;

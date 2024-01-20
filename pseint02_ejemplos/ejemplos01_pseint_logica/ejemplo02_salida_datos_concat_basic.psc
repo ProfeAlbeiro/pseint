@@ -1,4 +1,4 @@
-Algoritmo salida_datos_concatbasic
+Algoritmo salida_datos_concat_basic
 	
 	// Descripción del Objetivo o Problema a resolver, organizado como Sistema [Entradas, Proceso y Salidas]
 	Escribir "";
@@ -19,6 +19,8 @@ Algoritmo salida_datos_concatbasic
 	//          se usan las estructuras de control: Secuencial, condicional, repetición.
 	
 	// Salida de Datos: Resultado(s). Pueden ser parte del proceso.
+	
+	// PROYECTO DE EJEMPLO: CALCULADORA
 	Escribir "CALCULADORA";
 	Escribir "";
 	Escribir "    Código          ", ": 1";
