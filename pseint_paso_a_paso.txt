@@ -6,7 +6,7 @@
 |||                                                                                                                                                    |||
 ||| --  CONFIGURACIÓN AMBIENTE                                                                                                                         |||
 |||                                                                                                                                                    |||
-||| --  AUTOR:  ALBEIRO RAMOS. SENA, 2025.                                                                                                             |||
+||| --  AUTOR:  ALBEIRO RAMOS, 2025.                                                                                                                   |||
 |||                                                                                                                                                    |||
 ||| --  Bibliografía  XXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                                                                    |||
 |||                   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                                                         |||
